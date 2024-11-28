@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Neural Surface Priors for Editable Gaussian Splatting</h1>
-Jakub Szymkowiak, Weronika Jakubowska, Dawid Malarz, Weronika Smolak-Dyżewska, Maciej Zieba, Przemyslaw Musialski, Wojtek Palubicki, Przemysław Spurek
+Jakub Szymkowiak, Weronika Jakubowska, Dawid Malarz, Weronika Smolak-Dyżewska, Maciej Zięba, Przemysław Musialski, Wojtek Pałubicki, Przemysław Spurek
 <br> <br>
   
 [![arXiv](https://img.shields.io/badge/arXiv-2411.18311-red)](https://arxiv.org/abs/2411.18311)
