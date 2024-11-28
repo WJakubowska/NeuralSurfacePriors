@@ -10,7 +10,7 @@ Jakub Szymkowiak, Weronika Jakubowska, Dawid Malarz, Weronika Smolak-Dyżewska, 
 
  <img src="teaser.png" />
  
-This repository contains the pytorch implementation for the paper [Neural Surface Priors for Editable Gaussian Splatting](https://arxiv.org/abs/2411.18311)
+This repository contains the implementation for the paper [Neural Surface Priors for Editable Gaussian Splatting](https://arxiv.org/abs/2411.18311)
 
 
 
