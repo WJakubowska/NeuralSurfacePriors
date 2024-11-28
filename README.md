@@ -10,4 +10,6 @@ Unlike other methods, our pipeline allows modifications applied to the extracted
 This effectively transfers the mesh edits back to the recovered appearance representation.
 By leveraging mesh-guided transformations, our approach simplifies 3D scene editing and offers improvements over existing methods in terms of usability and visual fidelity of edits.
 
+Paper: [Link](https://arxiv.org/abs/2411.18311)
+
 Code will be added soon.
