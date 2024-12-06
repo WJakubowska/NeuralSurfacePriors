@@ -35,8 +35,8 @@ Before you begin, ensure you have Docker installed on your machine.
 
 First, clone the repository to your local machine using the following command:
 ```Shell
-git clone https://github.com/WJakubowska/3D_Gaussian_Splatting_with_PermutoSDF.git
-cd 3D_Gaussian_Splatting_with_PermutoSDF
+git clone https://github.com/WJakubowska/NeuralSurfacePriors.git
+cd NeuralSurfacePriors
 chmod +x build.sh
 chmod +x run.sh
 ```
