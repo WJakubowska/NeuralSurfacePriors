@@ -29,7 +29,7 @@ if [ "$#" -ne 0 ]; then
 		--volume="/etc/shadow:/etc/shadow:ro" \
 		--volume="/etc/sudoers.d:/etc/sudoers.d:ro" \
 		--volume="/tmp/.X11-unix:/tmp/.X11-unix:rw" \
-		--volume="/mnt/c/Users/48783/Desktop/permuto_sdf_data:/mnt/data/permuto_sdf_data:rw" \
-		--volume="/mnt/c/Users/48783/Desktop/container_data:/workspace/:rw" \
+		--volume="path/to/your/folder/permuto_sdf_data:/mnt/data/permuto_sdf_data:rw" \
+		--volume="path/to/your/folder:/workspace/:rw" \
 		--name permuto_sdf_img\
 		-it permuto_sdf_img:latest
