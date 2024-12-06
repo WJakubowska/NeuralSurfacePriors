@@ -111,3 +111,39 @@ Where:
 - mesh_modified_name is the name of the modified mesh located in the source_dir folder.
 - gaussians_name is the name of the point cloud file.
 
+# References
+This project is inspired by or builds upon the following works:
+```
+@inproceedings{rosu2023permutosdf,
+              title={PermutoSDF: Fast Multi-View Reconstruction with
+              Implicit Surfaces using Permutohedral Lattices},
+              author={Radu Alexandru Rosu and Sven Behnke},
+              booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+              year={2023}
+}
+
+@Article{kerbl3Dgaussians,
+      author = {Kerbl, Bernhard and Kopanas, Georgios and Leimk{\"u}hler, Thomas and Drettakis, George},
+      title = {3D Gaussian Splatting for Real-Time Radiance Field Rendering},
+      journal = {ACM Transactions on Graphics},
+      number = {4},
+      volume = {42},
+      month = {July},
+      year = {2023},
+      url  = {https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/}
+}
+```
+
+# Citation
+```
+@misc{szymkowiak2024neuralsurfacepriorseditable,
+      title={Neural Surface Priors for Editable Gaussian Splatting}, 
+      author={Jakub Szymkowiak and Weronika Jakubowska and Dawid Malarz and Weronika Smolak-Dyżewska and Maciej Zięba and Przemysław Musialski and Wojtek Pałubicki and Przemysław Spurek},
+      year={2024},
+      eprint={2411.18311},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2411.18311}, 
+}
+```
+
